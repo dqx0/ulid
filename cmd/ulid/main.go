@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/oklog/ulid/v2"
+	"github.com/dqx0/ulid"
 	getopt "github.com/pborman/getopt/v2"
 )
 
